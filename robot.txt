@@ -1,0 +1,5 @@
+# robots.txt for your website
+User-agent: *
+Disallow:
+
+Sitemap: https://yourwebsite.com/sitemap.xml
